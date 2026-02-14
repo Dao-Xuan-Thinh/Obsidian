@@ -67,3 +67,11 @@
 34. *Today wasn't anything special, all i did was study. I started the cs50 course. 8 days till HSR 3.2 update, which i really look forward to*
 
 35. *Nothing really happened today, i tried to get a new hair-cut but the style is kinda silly for me so i ended up not doing it.*
+
+36. *Today i had a math test, i didn't do very well. I got really tired later in the day so i think i will go to bed early* 
+
+37. *Finally back after a week break. Yesterday i learned that i will be doing the TCF not the DELF, which is easier but i am still scared. Today i just study, although i did wasted my evening doing nothing much.*
+
+38. *I have a lot of classes today so i ended studying pretty late but here i am and that's what important. My keyboard keeps running out of battery so i think i will have to go back to wired mode which is a bummer. I should start translating all this to French from tomormow.*
+
+39. *Today marks one week before the TCF test, i stopped doing the vocab to focus on other stuff. I will be focusing purely on French till i finish the test*

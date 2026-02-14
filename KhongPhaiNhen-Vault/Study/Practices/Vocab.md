@@ -83,3 +83,39 @@ Jour 7 : *Les émotions (Emotion)*
 8. Calme - Calm
 9. Peur - Fear
 10. Amoureux / Amoureuse - In love
+
+Jour 8 : *Les types de questions*
+1. Qui ? - Who ?
+2. Quoi ? / Que ? - What ?
+3. Quand ? - When ?
+4. Où ? - Where ?
+5. Pourquoi ? - Why ?
+6. Comment ? - How ?
+7. Combien ? - How much ?
+8. Est-ce que ? - *Used to form yes/no questions*
+9. Quel ? / Quell ? - Which ? / What ?
+10. À qui ? - To whom ?
+
+Jour 9 : *Les animaux*
+1. Chien - Dog
+2. Chat - Cat
+3. Oiseau - Bird
+4. Poisson - Fish
+5. Vache - Cow
+6. Cheval - Horse
+7. Mouton - Sheep
+8. Lapin - Rabbit
+9. Tortue - Turtle 
+10. Cochon - Pig
+
+Jour 10 : *Les actions*
+1. Manger - To eat
+2. Boire - To drink
+3. Lire - To read
+4. Écrire - To write
+5. Parler - To speak
+6. Écouter - To listen
+7. Marcher - To walk
+8. Courir - To run
+9. Dormir - To sleep
+10. Regarder - To watch
